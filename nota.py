@@ -1,4 +1,4 @@
-# -*- coding :utf-8 -*-
+# -*- coding: utf-8 -*-
 import datetime
 
 # Almacena el último id de la nota
